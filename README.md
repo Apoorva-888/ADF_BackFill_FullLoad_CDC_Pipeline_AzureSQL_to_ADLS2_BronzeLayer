@@ -55,13 +55,13 @@ ADF_Backfill_FullLoad_Pipeline_AzureSQL_to_ADLS2_Bronze/
 │
 ├── 4_docs/
 │   ├── 01_project_overview.md
-│   ├── 02_backfill_concept.md
-│   ├── 03_full_load_concept.md
-│   ├── 04_dataset_and_linkedservices.md
-│   ├── 05_execution_scenarios.md
-│   ├── 06_production_readiness.md
-│   ├── 07_code_snippets.md
-│   └── architecture_diagram.png
+│   ├── 02_pipeline_activities.md
+│   ├── 03_backfill_concept.md
+│   ├── 04_full_load_concept.md
+│   ├── 05_dataset_and_linkedservices.md
+│   ├── 06_execution_scenarios.md
+│   ├── 07_production_readiness.md
+│   ├── 08_code_snippets.md
 │
 └── 5_activity_visuals/
     ├── backfill_copy_output.png
