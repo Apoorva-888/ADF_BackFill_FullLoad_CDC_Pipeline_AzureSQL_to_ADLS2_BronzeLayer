@@ -1,0 +1,1 @@
+# ADF_BackFill_FullLoad_CDC_Pipeline_AzureSQL_to_ADLS2_BronzeLayer
